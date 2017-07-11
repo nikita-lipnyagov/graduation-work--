@@ -1,0 +1,101 @@
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.exe.config
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.exe
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.pdb
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csprojResolveAssemblyReference.cache
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.Properties.Resources.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.GenerateResource.Cache
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.exe
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.pdb
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmHello.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMenu.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmBiography.resources
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\Interop.WMPLib.dll
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\AxInterop.WMPLib.dll
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Interop.WMPLib.dll
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\AxInterop.WMPLib.dll
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.ResolveComReference.cache
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmvideo1.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmLisovaPisnya.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Interop.AcroPDFLib.dll
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\Interop.AcroPDFLib.dll
+F:\Квалификационная работа\Квалификационная работа\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmAdobe.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMap.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest1.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest2.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmRegistration.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmPyatnashki.resources
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.exe.config
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Interop.AcroPDFLib.dll
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Interop.WMPLib.dll
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\AxInterop.WMPLib.dll
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.ResolveComReference.cache
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.exe
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.pdb
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.exe
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\Квалификационная работа.pdb
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\Interop.AcroPDFLib.dll
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\Interop.WMPLib.dll
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Квалификационная работа\Квалификационная работа\bin\Debug\AxInterop.WMPLib.dll
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csprojResolveAssemblyReference.cache
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmAdobe.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmHello.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmBiography.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmLisovaPisnya.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMap.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmPyatnashki.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmRegistration.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest1.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest2.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmvideo1.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMenu.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.Properties.Resources.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.GenerateResource.Cache
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmDovidka.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmDovidka.resources
+F:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmUkraine.resources
+E:\Квалификационная работа\Квалификационная работа\obj\Debug\Квалификационная_работа.frmUkraine.resources
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\Квалификационная работа.exe.config
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Interop.AcroPDFLib.dll
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Interop.WMPLib.dll
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\AxInterop.WMPLib.dll
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.ResolveComReference.cache
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.exe
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.pdb
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\Квалификационная работа.exe
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\Квалификационная работа.pdb
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\Interop.AcroPDFLib.dll
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\Interop.WMPLib.dll
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\lipnyagov\Source\Квалификационная работа\bin\Debug\AxInterop.WMPLib.dll
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.csprojResolveAssemblyReference.cache
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmAdobe.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmDovidka.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmHello.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmBiography.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmLisovaPisnya.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMap.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmPyatnashki.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmRegistration.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest1.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmTest2.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmUkraine.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmvideo1.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.frmMenu.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная_работа.Properties.Resources.resources
+E:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.GenerateResource.Cache
+F:\lipnyagov\Source\Квалификационная работа\bin\Debug\Квалификационная работа.exe.config
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\Interop.AcroPDFLib.dll
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\Interop.WMPLib.dll
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\AxInterop.WMPLib.dll
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.csproj.ResolveComReference.cache
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.exe
+F:\lipnyagov\Source\Квалификационная работа\obj\Debug\Квалификационная работа.pdb
